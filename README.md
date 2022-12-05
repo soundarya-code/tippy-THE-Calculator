@@ -1,6 +1,6 @@
 # Tip Calculator 
 
-## *Soundarya B Hadimani
+## Soundarya B Hadimani
 
 **Tippy** computes the tip and total amount for a bill. The app uses the base amount and tip percentage to calculate the amount owed, and it also describes the quality of service based on the tip.
 
@@ -20,11 +20,9 @@ The following **extensions** are implemented:
 * [ ] Custom colors palette selected
 * [ ] List anything else that you did to improve the app functionality or design!
 
-## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+![tip_calutor](https://user-images.githubusercontent.com/76764479/205582265-419ff0d8-473d-4d45-8c35-663b74ab18b9.gif)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
